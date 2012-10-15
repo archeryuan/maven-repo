@@ -40,6 +40,12 @@
             <version>3.5.0.Final</version>
             <scope>compile</scope>
         </dependency>
+        <dependency>
+            <groupId>com.zhihu</groupId>
+            <artifactId>kids4j</artifactId>
+            <version>0.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     
