@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>wish-core</groupId>
+  <artifactId>wish-core</artifactId>
+  <versioning>
+    <release>0.1alpha</release>
+    <versions>
+      <version>0.1alpha</version>
+    </versions>
+    <lastUpdated>20121013050719</lastUpdated>
+  </versioning>
+</metadata>
