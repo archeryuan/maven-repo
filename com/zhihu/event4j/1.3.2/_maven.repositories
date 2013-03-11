@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 11 11:05:24 CST 2013
+event4j-1.3.2.jar>=
+event4j-1.3.2.pom>=
+event4j-1.3.2-sources.jar>=
